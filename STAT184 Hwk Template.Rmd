@@ -1,0 +1,42 @@
+---
+title: "STAT 184 Homework Exercises" 
+subtitle: "DataComputing Chapters 5 & 6"
+author: "Your Name"
+output: html_notebook
+---
+
+## Assigned Exercises
+
+- DC Chapter 5 Exercises:   5.2/5.3
+- DC Chapter 6 Exercises:   6.1/6.3/6.5/6.6/6.7/6.8/6.9
+
+## Front Matter
+
+```{r}
+# clean up workspace environment
+rm(list = ls())
+
+# all packages used for the assignment
+library(mosaic)
+library(tidyverse)
+
+```
+
+
+
+## Chapter 5 Exercises
+
+### Problem 5.2
+
+
+### Problem 5.3
+
+[and so forth...]
+
+
+## Chapter 6 Exercises
+
+### Problem 6.1
+
+[and so forth...]
+
